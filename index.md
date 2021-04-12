@@ -3,18 +3,18 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: ""      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "July 27-30, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "May 17-21, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 13:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-07-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-07-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Angelique van Rensburg", "Martin Dreyer", "Juan Steyn","Caroline Ajilogba"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["eresearch@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+startdate: 2021-05-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-05-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Angelique van Rensburg", "Martin Dreyer"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Sebastian Mosidi"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+contact: ["sebastian.mosidi@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:   https://pad.carpentries.org/2020-07-27-ttt-online-SAST          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/my/carpentriesroom1"
+    address: "https://carpentries.zoom.us/j/91085509412?pwd=SnhrTkpEei9hV2NycUZMdVZpdjljQT09"
     
 ---
 
@@ -159,7 +159,7 @@ or anything else, please get in touch.
 
 <h3>Application</h3>
 
-Pleaes use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
+Pleaes use this <a href ="https://docs.google.com/forms/d/1Pfn-zLcmqnGqOzgiWPgUVx49ZtvZ49tymypWmuqg07E/edit"><b>application form</b></a>.
 Successful candidates will be notified via email.
 
 
